@@ -57,7 +57,14 @@ El flujo de extracción implementado se divide en cuatro etapas principales:
 ### Desde entorno local (Visual Studio Code / Terminal)
 
 1. Clonar el repositorio:
-```bash
-git clone [https://github.com/sebasgarcesc/Garces_Sebastian_Analizando_EA1.git](https://github.com/sebasgarcesc/Garces_Sebastian_Analizando_EA1.git)
+git clone [https://github.com/sebasgarcesc/Garces_Sebastian_Analizando_EA1.git](https://github.com/sebasgarcesc/Garces_Sebastian_Analizando_EA1.git).
+
 ## Autor
 Sebastián Garcés Cadavid
+
+
+
+
+
+
+
