@@ -1,0 +1,38 @@
+{
+    "metodologia_scraping": "BeautifulSoup4 (html.parser) + Requests",
+    "fecha_extraccion": "2026-11-08 17:27:05",
+    "comercio": "Tauret Computadores S.A.S.",
+    "url_origen": "https://tauretcomputadores.com/product/tarjeta-de-video-asus-tuf-gaming-geforce-rtx-5090-gddr7-32gb",
+    "informacion_comercial": {
+        "titulo": "Tarjeta Gráfica ASUS TUF Gaming · GeForce RTX 5090 · 32GB GDDR7 · Triple Ventilador",
+        "precio_cop": 25000000,
+        "precio_formateado": "COP $25.000.000",
+        "iva_incluido": true,
+        "envio_gratis": true,
+        "estado_stock": "En stock · Despacho el próximo día hábil",
+        "unidades_disponibles": 0,
+        "garantia": "12 meses"
+    },
+    "identificadores_catalogo": {
+        "EAN": "4711387890356",
+        "SKU": "11223",
+        "Part_Number_PN": "90YV0LY1-M0AA00"
+    },
+    "dimensiones_empaque": {
+        "peso": "4.00 kg",
+        "ancho": "43 cm",
+        "alto": "27 cm",
+        "largo": "10 cm"
+    },
+    "especificaciones_tecnicas": {
+        "modelo": "TUF-RTX5090-32G-GAMING",
+        "motor_grafico": "NVIDIA GeForce RTX 5090",
+        "rendimiento_ia": "3352 TOPs",
+        "nucleos_cuda": "21,760",
+        "frecuencia_modo_oc": "2437 MHz",
+        "memoria_capacidad": "32 GB",
+        "memoria_tipo": "GDDR7",
+        "interfaz_bus": "PCI Express 5.0",
+        "fuente_poder_recomendada": "1000 W"
+    }
+}
