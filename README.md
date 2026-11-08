@@ -60,7 +60,7 @@ El flujo de extracción implementado se divide en cuatro etapas principales:
 git clone [https://github.com/sebasgarcesc/Garces_Sebastian_Analizando_EA1.git](https://github.com/sebasgarcesc/Garces_Sebastian_Analizando_EA1.git).
 
 ## Autor
-Sebastián Garcés Cadavid
+| Sebastian Garces | sebastian.garcesc@est.iudigital.edu.co | sebasgarcesc |
 
 
 
